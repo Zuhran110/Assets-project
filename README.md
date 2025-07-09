@@ -23,11 +23,12 @@ A 2D top-down shooter game built with Unity, featuring player movement, enemy sp
 *16x16 pixel art enemy character*
 
 #### Background Assets
-![Cloud Background 1](free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds%201/1.png)
-![Cloud Background 2](free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds%201/2.png)
-![Cloud Background 3](free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds%201/3.png)
-![Cloud Background 4](free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds%201/4.png)
-*Animated cloud background assets for immersive atmosphere*
+![Cloud Background](free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds%201/1.png)
+*Animated cloud background asset for immersive atmosphere*
+
+#### Enemy Assets
+![Enemy Character](Enemies/Alan%20(16%20x%2016).png)
+*16x16 pixel art enemy character*
 
 #### Game Prefabs
 - **Enemy.prefab**: Enemy character with AI behavior
